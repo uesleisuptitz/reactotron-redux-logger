@@ -32,3 +32,7 @@ store.dispatch = function dispatchAndLog(action: any) {
   return result;
 };
 ```
+## Result
+<p align="center">
+  <img src="https://github.com/uesleisuptitz/reactotron-redux-logger/blob/master/Result.png" alt="Result of logs" />
+</p>
